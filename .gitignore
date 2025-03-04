@@ -1,0 +1,64 @@
+# Mac関連
+.DS_Store
+.Trash
+
+# 一時ファイル
+*.log
+*.swp
+*.tmp
+
+# シェル設定関連
+.nvm/
+.oh-my-zsh/
+.zsh_history
+.zsh_sessions/
+.viminfo
+
+# Node.js関連
+node_modules/
+package-lock.json
+
+# VS Code関連
+.vscode/
+
+# Python関連
+__pycache__/
+*.pyc
+# Mac OS関連
+.DS_Store
+.Trash
+
+# ログや一時ファイル
+*.log
+*.swp
+*.tmp
+
+# シェル・設定関連
+.nvm/
+.oh-my-zsh/
+.zsh_history
+.zsh_sessions/
+.viminfo
+
+# Python関連
+__pycache__/
+*.pyc
+python_history-*.tmp
+
+# Node.js関連
+node_modules/
+package-lock.json
+
+# VS Code関連
+.vscode/
+*.code-workspace
+
+# ユーザーディレクトリ系（Git管理不要）
+Applications/
+Desktop/
+Downloads/
+Dropbox/
+Documents/
+Library/
+
+JupyterLab/
